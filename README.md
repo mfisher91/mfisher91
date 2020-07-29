@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey, I'm Maris, also known as Mo. 👋
 
-<!--
-**mfisher91/mfisher91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working on improving my tech stack and knowledge, so I'll be working on many small projects over the next few months. Apparently emoji's say a lot about the person that uses them - mine is 🚮. 
 
-Here are some ideas to get you started:
+I currently work at [Unisys](https://www.unisys.com/) as an Application Development Engineer - a fancy title to say that I ~~break~~ build things with code. I use my lunch break to learn things through their internal programs. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current course: (something great)
+
+Current personal project: (I'm coming up with an idea, bear with. 🐻)
+
+![Simpson ideas gif](https://media0.giphy.com/media/3o6MbkPbsfZYwkanhm/giphy.gif)
+![Window gif](https://media.tenor.com/images/aee9d1b2e5b2f81bd536e40bc10e7920/tenor.gif)
+
+
