@@ -4,7 +4,7 @@ I'm working on improving my tech stack and knowledge, so I'll be working on many
 
 I currently work at [Unisys](https://www.unisys.com/) as an Application Development Engineer - a fancy title to say that I ~~break~~ build things with code. I use my lunch break to learn things through their internal programs. 
 
-Current course: (something great)
+Current course: AWS Certified Developer - Associate (learning all things AWS).
 
 Current personal project: (I'm coming up with an idea, bear with. 🐻)
 
