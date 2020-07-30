@@ -15,7 +15,7 @@ I currently work at [Unisys](https://www.unisys.com/) as an Application Developm
 
 Current course: AWS Certified Developer - Associate (learning all things AWS).
 
-Current personal project: (I'm coming up with an idea, bear with. 🐻)
+Current personal project: [Band Shuffle](http://bandshuffle.co.uk)
 
 ![Simpson ideas gif](https://media0.giphy.com/media/3o6MbkPbsfZYwkanhm/giphy.gif)
 ![Window gif](https://media.tenor.com/images/aee9d1b2e5b2f81bd536e40bc10e7920/tenor.gif)
