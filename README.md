@@ -19,7 +19,7 @@ Current personal project: Coming up with an idea, bear with :bear:
 
 Past personal projects:
 - [Band Shuffle](http://bandshuffle.co.uk)
- - Created in ReactJS, I created a prototype for a new way to find artists when Covid-19 struck. Data is stored in a `.json` blob and the intention was (and still is) to hook it up to a DB if the project got any traction.
+   - Created in ReactJS, I created a prototype for a new way to find artists when Covid-19 struck. Data is stored in a `.json` blob and the intention was (and still is) to hook it up to a DB if the project got any traction.
 
 ![Simpson ideas gif](https://media0.giphy.com/media/3o6MbkPbsfZYwkanhm/giphy.gif)
 ![Window gif](https://media.tenor.com/images/aee9d1b2e5b2f81bd536e40bc10e7920/tenor.gif)
