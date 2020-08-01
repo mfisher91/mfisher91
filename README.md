@@ -15,7 +15,7 @@ I currently work at [Unisys](https://www.unisys.com/) as an Application Developm
 
 Current course: AWS Certified Developer - Associate (learning all things AWS).
 
-Current personal project: Coming up with an idea, bear with :bear:
+Current personal project: [A chat app](https://github.com/mfisher91/chat-room)
 
 Past personal projects:
 - [Band Shuffle](http://bandshuffle.co.uk)
