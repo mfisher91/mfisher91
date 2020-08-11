@@ -13,8 +13,6 @@ I love working in the Full Stack cycle, creating a lip-smacking backend with a s
 
 I currently work at [Unisys](https://www.unisys.com/) as an Application Development Engineer - a fancy title to say that I ~~break~~ build things with code. I use my lunch break to learn things through their internal programs. 
 
-Current course: AWS Certified Developer - Associate (learning all things AWS).
-
 Current personal project: [A chat app](https://github.com/mfisher91/chat-room)
 
 Past personal projects:
